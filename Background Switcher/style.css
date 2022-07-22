@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(246, 231, 231, 0.916);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    height: 100px;
+    width: 300px;
+    background: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+span{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 30px 10px;
+}
+
+#number1{
+    background: #28CBD8;
+}
+
+#number2{
+    background: #E26431;
+}
+
+#number3{
+    background: #A4DA79;
+}
+
+#number4{
+    background: #798ADA;
+}
