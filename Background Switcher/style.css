@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgba(246, 231, 231, 0.916);
+    background-color: #ffa500;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,18 +29,18 @@ span{
     margin: 30px 10px;
 }
 
-#number1{
-    background: #28CBD8;
+#yellow{
+    background: yellow;
 }
 
-#number2{
-    background: #E26431;
+#red{
+    background: red;
 }
 
-#number3{
-    background: #A4DA79;
+#green{
+    background: greenyellow;
 }
 
-#number4{
-    background: #798ADA;
+#blue{
+    background: blue;
 }
